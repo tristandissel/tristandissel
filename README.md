@@ -13,7 +13,7 @@ I'm a reliable and adaptable aspiring software engineer based in Gqeberha, South
 - Managed administrative tasks including data entry and organizing travel documents
 - Delivered excellent customer service
 
-**Volunteer Sports Coordinator @ Wild Sports Club** | Gqeberha | May 2024 – Aug 2025
+**Volunteer Sports Assistant Coordinator @ NMU Sports Club** | Gqeberha | May 2024 – Aug 2025
 - Assisted with event supplies and distribution of race materials
 - Provided friendly, efficient customer service to all runners and supporters
 - Helped maintain an organized flow of participants and supported event logistics
