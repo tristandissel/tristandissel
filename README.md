@@ -27,7 +27,7 @@ Aspiring software developer with hands-on C# development experience and certifie
 National Senior Certificate | Bachelor's Pass
 
 ### 👩🏻‍💻 Technical Skills
-C# Development | Visual Studio | SQL | ERDs | Excel, Word, Access Advanced
+C# Development | Visual Studio | SQL | ERDs |Advanced Microsoft Excel, Word, Access, PowePoint
 
 ### 📚 Certificates
 CCNA - IT Essentials | CCNAV7 - Networking I
