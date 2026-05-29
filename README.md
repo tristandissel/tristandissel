@@ -45,6 +45,6 @@ C# Development - First year | Power BI Certificate with Coursera
 
 ### 🫱🏻‍🫲🏼 Let's Connect
 Email: tristandissel@icloud.com  
-Phone: +27 82 639 3629  
+Phone: +27 82 529 3229  
 Location: Gqeberha, South Africa
 
