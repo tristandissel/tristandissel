@@ -62,5 +62,6 @@ Intrested in branching into data analytics
 Email: tristandissel@icloud.com
 Phone: +27 82 639 3629
 Location: Gqeberha, South Africa
+Initial commit: Create profile README
 
 -->
