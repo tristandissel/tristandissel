@@ -30,7 +30,7 @@ National Senior Certificate | Bachelor's Pass
 C# Development | Visual Studio | SQL | ERDs |Advanced Microsoft Excel, Word, Access, PowePoint
 
 ### 📚 Certificates
-CCNA - IT Essentials | CCNAV7 - Networking I
+CCNA - IT Essentials | CCNAV7 - Networking I | TEFL - English
 
 ### Soft Skills
 Customer Service Excellence | Problem-Solving & Troubleshooting | Teamwork & Collaboration | Adaptability & Quick Learning | Administrative Management
