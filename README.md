@@ -36,7 +36,7 @@ CCNA - IT Essentials | CCNA - Networking I | TEFL - English | CISCO - Cyber Secu
 Customer Service Excellence | Problem-Solving & Troubleshooting | Teamwork & Collaboration | Adaptability & Quick Learning | Administrative Management
 
 ### 👩🏻‍🏫 Currently Learning
-C# Development - First year | Power BI Certificate with Coursera
+C# Development - First year | Power BI Certificate with Coursera | AWS - Cloud Practitioner
 
 ### 🎯 Goals & Interests
 - Grow as a full-stack developer
